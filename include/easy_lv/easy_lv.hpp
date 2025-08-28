@@ -1,0 +1,6 @@
+#include "manager/init/init.hpp"
+#include "manager/event_handler/event_handler.hpp"
+#include "manager/task_handler/task_handler.hpp"
+#include "objects/buttons/buttons.hpp"
+#include "objects/labels/labels.hpp"
+#include "objects/screens/screens.hpp"
