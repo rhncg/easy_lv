@@ -1,0 +1,10 @@
+[
+  {
+    "name": "easy_lv",
+    "description": "easy_lv wrapper for LVGL",
+    "version": "1.0.0",
+    "kernel": "4.1.0",
+    "targets": ["v5"],
+    "location": "https://github.com/rhncg/easy_lv/releases/download/v1.0.0/easy_lv@1.0.0.zip"
+  }
+]
