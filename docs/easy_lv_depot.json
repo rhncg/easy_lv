@@ -4,25 +4,25 @@
         "metadata": {
             "name": "easy_lv",
             "description": "easy_lv wrapper for LVGL",
-            "version": "1.0.0",
-            "location": "https://github.com/rhncg/easy_lv/releases/download/v1.0.0/easy_lv%401.0.0.zip"
+            "version": "1.0.1",
+            "location": "https://github.com/rhncg/easy_lv/releases/download/v1.0.1/easy_lv@1.0.1.zip"
         },
         "name": "easy_lv",
         "supported_kernels": ">=3.5.0",
         "target": "v5",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     {
         "py/object": "pros.conductor.templates.base_template.BaseTemplate",
         "metadata": {
             "name": "easy_lv",
             "description": "easy_lv wrapper for LVGL",
-            "version": "1.0.1",
-            "location": "https://github.com/rhncg/easy_lv/releases/download/v1.0.1/easy_lv_1.0.1.zip"
+            "version": "1.0.0",
+            "location": "https://github.com/rhncg/easy_lv/releases/download/v1.0.0/easy_lv@1.0.0.zip"
         },
         "name": "easy_lv",
         "supported_kernels": ">=3.5.0",
         "target": "v5",
-        "version": "1.0.1"
+        "version": "1.0.0"
     }
 ]
